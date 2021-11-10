@@ -40,8 +40,5 @@ body{
 
 canvas{
     margin-top:200px;
-    border:dotted 2px white;
-    background:black;
-    box-shadow:5px 5px 5px white;
-    border-radius:75px;
+    border-radius:20px;
 }
